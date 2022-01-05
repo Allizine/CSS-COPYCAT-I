@@ -1,0 +1,12 @@
+nav {
+    font-weight: bold;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.col-md-6 {
+    padding-bottom: 0.5em;
+}
